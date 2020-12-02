@@ -4,8 +4,9 @@ color 0c
 set /P var7355="type: "
 echo %var7355%
 if "%var7355%" == "1234" echo hello
-if "%var7355%" == "new" start 2.bat
+if "%var7355%" == "new" start calc.bat
 if "%var7355%" == "calc" @echo off 
+if "%var7355%" == "desc" start desc.py.bat
 @title calc
 color 70
 mode con: cols=30 lines=3
