@@ -1,14 +1,15 @@
+
 # calc.bat
-Кукулятор написаный на батнике</br>
+The cuulator written on a batch file </br>
 
 
 
-<b>Список команд:</b>
-<li> calc - запускает калькулятор </li>
-<li> new - запускает новое окно </li>
+<b> Command List: </b>
+<li> calc - runs the calculator </li>
+<li> new - starts a new window </li>
 
-# desc.py 
-<a name="desc"><p> Просто написаный вичислитель дескриминанта и двух кореней на <b><a href="https://python.org">пайтоне</a></b>(я всё это тестю) </p></a>
+# desc.py
+<a name="desc"> <p> A simple descriptor and two-root numerator in <b> <a href="https://python.org"> python </a> </b> (I'm testing it all ) </p> </a>
 
 # desc.py.bat
-Запуск <b><a href="#desc"> desc.py </a> </b>
+Run <b> <a href="#desc"> desc.py </a> </b>
