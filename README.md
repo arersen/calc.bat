@@ -1,6 +1,6 @@
 
 # calc.bat
-The cuulator written on a batch file </br>
+The calculator written on a batch file </br>
 
 
 
